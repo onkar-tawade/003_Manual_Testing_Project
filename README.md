@@ -25,5 +25,4 @@ Test Scenarios & Its Possible Test Case Conditions
 Execution of Test Cases
 Bug Reporting Using Excel Sheet
 
-So you can download each separate Excel file or Zip File which I uploaded on this GitHub
 
